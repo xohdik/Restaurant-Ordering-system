@@ -20,7 +20,7 @@ Restaurant Ordering System
 - `restaurant.db` - SQLite database file 
  
  How to Run 
-1. Install Qt5 development environment 
+1. Install Qt5 or Android Emulator, Swift ios for development environment 
 2. Open `hello.pro` in Qt Creator 
 3. Build and run the project 
  
