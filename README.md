@@ -5,7 +5,6 @@ Restaurant Ordering System
 - Real-time order processing 
 - Customer order management 
 - Database integration for data persistence 
-- Professional Qt5 GUI interface 
  
  Tech Stack 
 - **Language**: C++ 
