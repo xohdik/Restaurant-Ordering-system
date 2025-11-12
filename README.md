@@ -8,7 +8,6 @@ Restaurant Ordering System
  
  Tech Stack 
 - **Language**: C++ 
-- **GUI Framework**: Qt5 
 - **Database**: SQLite 
 - **Build System**: qmake 
  
@@ -18,12 +17,7 @@ Restaurant Ordering System
 - `hello.pro` - Qt project configuration 
 - `images/` - Food item images and assets 
 - `restaurant.db` - SQLite database file 
- 
- How to Run 
-1. Install Qt5 or Android Emulator, Swift ios for development environment 
-2. Open `hello.pro` in Qt Creator 
-3. Build and run the project 
- 
+
 Key Capabilities 
 - Handles concurrent order processing 
 - Efficient database operations 
