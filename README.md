@@ -13,8 +13,7 @@ Restaurant Ordering System
  
  Project Structure 
 - `main.cpp` - Application entry point and business logic 
-- `mainwindow.cpp/h` - GUI implementation 
-- `hello.pro` - Qt project configuration 
+- `mainwindow.cpp/h` - GUI implementation  
 - `images/` - Food item images and assets 
 - `restaurant.db` - SQLite database file 
 
