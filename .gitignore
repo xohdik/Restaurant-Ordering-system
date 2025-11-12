@@ -1,0 +1,12 @@
+# Build files 
+build/ 
+*.o 
+*.exe 
+# IDE files 
+.vscode/ 
+.vs/ 
+# Database files 
+*.db 
+*.sqlite 
+# Log files 
+*.log 

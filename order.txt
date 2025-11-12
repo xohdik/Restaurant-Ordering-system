@@ -1,0 +1,7 @@
+Order Summary
+Total items: 3
+Items:
+Pasta - $8 x3 x2 x4
+Burger - $5 x4 x1
+Burger - $5 x1
+Total Price: $42
